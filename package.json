@@ -1,0 +1,13 @@
+{
+  "name": "promise-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "test": "jest --runInBand"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "leakage": "^0.4.0"
+  }
+}
